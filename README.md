@@ -1,4 +1,4 @@
-# Overview
+# Language Model Induced Operators for Hierarchical Planning
 
 - `domain.pddl` contains the PDDL domain definition for a simple cooking domain
 - `domain examples.txt` contains a few example tasks that we had in mind when we wrote the domain

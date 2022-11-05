@@ -1,0 +1,31 @@
+
+actions 
+- make pb + j
+-- get bread 
+-- spread pb
+-- spread j 
+-- spread (precondition: knife must be clean)
+-- wash knife 
+
+- buttered toast
+-- get bread 
+-- toast bread (operator)
+-- spread butter
+
+- fried chicken
+-- coat chicken in batter
+-- fry chicken in pot
+
+- make salad
+-- slice apple
+-- put apple in bowl
+-- slice lettuce
+-- put lettuce in bowl
+-- mix salad
+
+- serve cooked rice
+-- put rice in pot
+-- put water in pot 
+-- heat pot 
+-- put rice on bowl 
+-- serve bowl
