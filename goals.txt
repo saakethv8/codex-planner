@@ -1,0 +1,25 @@
+verbs
+- spread (or coat, cover, etc.)
+- wash
+- toast
+- put
+- slice
+- serve
+- heat (or cook, boil, etc.)
+- fry
+- mix
+- measure
+
+NL goals
+1. Serve a peanut butter and jelly sandwich on toasted bread.
+2. Make buttered toast.
+3. Serve a salad with sliced apples and lettuce.
+4. Slice a heated potato. 
+5. Wash and fry a potato.
+6. Serve cooked rice on a plate.
+7. Serve fried chicken. 
+8. Mix a sliced potato with broccoli.
+9. Pour 200 mL of water into a pot.
+10. Season a potato with a mixture of garlic and peppers.
+11. Put a tablespoon of oil into a pan.
+12. Boil a potato. 
